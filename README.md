@@ -9,6 +9,7 @@ The work focuses on applying data analysis, visualization, and machine learning 
 
 ## Repository Structure
 
+```
 Data-Science-for-Business-Assignments/
 │
 ├── Assignment-1/
@@ -28,6 +29,7 @@ Data-Science-for-Business-Assignments/
 │   └── report.pdf
 │ 
 └── README.md
+```
 
 ## Assignment Description
 
