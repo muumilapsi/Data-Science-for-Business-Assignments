@@ -13,19 +13,23 @@ The work focuses on applying data analysis, visualization, and machine learning 
 Data-Science-for-Business-Assignments/
 │
 ├── Assignment-1/
-│   ├── notebook.ipynb
-│   └── dataset.csv
+│   ├── codes for analysis.ipynb
+│   ├── dataset.csv
+│   └── report.pdf
 │
 ├── Assignment-2/
-│   ├── analysis.ipynb
+│   ├── codes for analysis.ipynb
+│   ├── dataset.csv
 │   └── report.pdf
 │
 ├── Assignment-3/
-│   ├── analysis.ipynb
+│  ├── codes for analysis.ipynb
+│   ├── dataset.csv
 │   └── report.pdf
 │ 
 ├── Assignment-4/
-│   ├── analysis.ipynb
+│   ├── codes for analysis.ipynb
+│   ├── dataset.csv
 │   └── report.pdf
 │ 
 └── README.md
