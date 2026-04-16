@@ -12,12 +12,10 @@ The work focuses on applying data analysis, visualization, and machine learning 
 ```
 Data-Science-for-Business-Assignments/
 │
-├── Assignment-1/
-│   ├── codes for analysis.ipynb
-│   ├── dataset.csv
-│   └── report.pdf
-│
-├── Assignment-2/
+├── Assignment-1: PrescriptiveModelingwithGurobi/
+│   └── codes and report for analysis.ipynb
+│  
+├── Assignment-2: /
 │   ├── codes for analysis.ipynb
 │   ├── dataset.csv
 │   └── report.pdf
